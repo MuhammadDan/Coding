@@ -9,3 +9,6 @@ function largestnumber(arr) {
 }
 var arr = [2, 5, 1, 8, 3];
 console.log(largestnumber(arr));
+
+ // Output: 8
+ console.log("The largest number in the array is: " + largestnumber(arr));
